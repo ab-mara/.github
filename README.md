@@ -36,7 +36,7 @@ This consolidation allows us to maintain all Atlas Bear projects, including our 
 
 Atlas Bear provides sui generis intelligence advisory and operational support to private firms deploying people, technology, and capital in the world's most challenging markets. We specialize in international trade, risk management, and professional services requiring specialized expertise and extensive fieldwork.
 
-**Atlas Bear Labs** is the development hub where Atlas Bear creates and shares tools for maritime security and OSINT research, threat analysis, and platform development for the intelligence community. We provide field-based intelligence and advisory services, with particular expertise in illicit trade and maritime security domains.
+**Atlas Bear Labs** is the development hub where Atlas Bear creates and shares tools for maritime security and OSINT research, threat analysis, strategic intelligence, and tactical platform development. We provide field-based intelligence and advisory services, with particular expertise in illicit trade and maritime security domains.
 
 ---
 
